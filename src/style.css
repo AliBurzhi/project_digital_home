@@ -102,6 +102,10 @@ h2 {
     width: 53px;
     height: 53px;
     background: #ffffff;
-    border: 1px solid #f2f2f2;
+
     box-sizing: border-box;
+}
+
+.slider-btn-prev {
+    border: 1px solid #f2f2f2;
 }
